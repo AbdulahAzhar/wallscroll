@@ -1,0 +1,8 @@
+{
+  "name": "WallScroll",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
